@@ -22,23 +22,6 @@ Here, I document my journey through a variety of cybersecurity challenges from [
 
 ---
 
-## 📁 Repository Structure
-
-Each category folder contains:
-- **Write-ups**: Step-by-step solutions
-- **Screenshots**: Visual aids
-- **Scripts/Tools**: Any code or utilities used
-
----
-
-## 🌟 Progress
-
-- **Total Challenges Solved:** _[Update with your count]_
-- **Categories Covered:** Crypto, Forensics, Reverse Engineering, Web, Misc
-- **Status:** Actively adding new solutions!
-
----
-
 ## 🔗 Useful Resources
 
 - [PicoCTF Official Website](https://picoctf.org/)
@@ -57,8 +40,8 @@ Feel free to open an issue or submit a pull request.
 ## 📬 Contact
 
 - **GitHub:** [Shouvik028](https://github.com/Shouvik028)
-- _[Add your preferred contact method if you wish]_
-
+- **Gmail:** shouvik028@gmail.com
+  
 ---
 
 _Thanks for visiting! Explore the write-ups and join me in unraveling the mysteries of cybersecurity!_
